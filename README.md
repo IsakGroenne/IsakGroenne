@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isak Grønne
-- 👀 I’m interested in Image Segmentation on MRI scans, Database Management.
+- 👀 I’m interested in Database Management.
 - 🌱 I’m currently learning Docker and manipulation of OData.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
